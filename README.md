@@ -8,7 +8,6 @@ This project is a Streamlit application designed to generate advertisements base
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [File Overview](#file-overview)
-- [Contributing](#contributing)
 
 ## Features
 - **Generate Ads**: Create ad text based on brand name, tagline, and product description.
@@ -76,20 +75,3 @@ Contains the logic for generating ad text using the OpenAI API:
 Handles image generation using the DALL-E API:
 - Defines the `create_and_show_images` function that generates and displays images based on the ad text.
 - Uses the OpenAI API to create images.
-
-## Contributing
-
-1. **Fork the repository**.
-2. **Create a new branch**:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. **Commit your changes**:
-    ```bash
-    git commit -m 'Add some feature'
-    ```
-4. **Push to the branch**:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. **Open a pull request**.
