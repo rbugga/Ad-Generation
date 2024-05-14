@@ -1,4 +1,3 @@
-# Ad-Generation
 # Ad Generator
 
 This project is a Streamlit application designed to generate advertisements based on user input. It utilizes the OpenAI GPT-3 model for text generation and DALL-E for image generation.
